@@ -13,3 +13,5 @@ pip install discord-webhook
 python [filename].py
 or
 python3 [filename].py
+
+*this is compatible with python 2, to make it work with python 3 you need to modify the input from raw_input to input*
